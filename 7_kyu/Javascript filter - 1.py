@@ -1,14 +1,8 @@
-def duplicates(array):
-    l1=[]
-    duplist = []
-    for item in array:
-        if item not in l1:
-            l1.append(item)
-        else:
-            if item not in duplist:
-                duplist.append(item)
-    return duplist
-
-
-
-print(duplicates([1, 2, 4, 4, 3, 3,4, 1, 5, 3, '5']))
+def search_names(logins):
+    pass
+    a = []
+    for item1 in logins:
+        for item2 in item1:
+            if item2[len(item2)-1]=='_':
+                a.append(item1)
+    return a   
