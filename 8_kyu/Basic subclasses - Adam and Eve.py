@@ -1,2 +1,12 @@
-def apple(x):
-    return "It's hotter than the sun!!" if int(x)**2 > 1000 else "Help yourself to a honeycomb Yorkie for the glovebox."
+def God():
+    return [Man(), Woman()]
+
+class Human(object):
+    pass
+
+class Man(Human):
+    pass
+    
+class Woman(Human):
+    pass
+#code
