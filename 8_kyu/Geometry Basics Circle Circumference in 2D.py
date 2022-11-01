@@ -1,6 +1,3 @@
-def sum_args(*x):
-    # ...
-    a = 0
-    for item in x:
-        a+=item
-    return a
+from math import pi
+def circle_circumference(circle):
+    return round(2 * circle.radius * pi, 6)
