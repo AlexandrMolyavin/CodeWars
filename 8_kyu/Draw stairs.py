@@ -1,15 +1,7 @@
-def God():
-    return [Man(), Woman()]
+def draw_stairs(n):
+    a = ''
+    for i in range(0, n):
+        a += i * ' ' + 'I\n'
 
-
-class Human(object):
-    pass
-
-
-class Man(Human):
-    pass
-
-
-class Woman(Human):
-    pass
-# code
+    return   a[:-1]
+    # do something
