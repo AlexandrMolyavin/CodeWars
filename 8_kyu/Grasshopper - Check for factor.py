@@ -1,4 +1,3 @@
-def hoop_count(n):
-    if n >=10 :
-        return "Great, now move on to tricks"
-    else:return   "Keep at it until you get it"
+def check_for_factor(base, factor):
+    state = True if base % factor == 0 else False
+    return state
