@@ -1,7 +1,6 @@
-def draw_stairs(n):
-    a = ''
-    for i in range(0, n):
-        a += i * ' ' + 'I\n'
-
-    return   a[:-1]
-    # do something
+def generate_range(min, max, step):
+    a = []
+    while min <= max:
+        a.append(min)
+        min += step
+    return a
