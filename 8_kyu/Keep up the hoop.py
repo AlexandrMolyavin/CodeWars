@@ -1,12 +1,4 @@
-def well(x):
-    #your code here
-    i = 0
-    for item in x:
-        if item == 'good':
-            i+=1
-    if i == 0:
-             return 'Fail!'
-    if i == 1 or i == 2:
-                return 'Publish!'
-    if i > 2:
-                return 'I smell a series!'
+def hoop_count(n):
+    if n >=10 :
+        return "Great, now move on to tricks" 
+    else:return   "Keep at it until you get it"
