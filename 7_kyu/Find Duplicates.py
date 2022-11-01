@@ -11,4 +11,3 @@ def duplicates(array):
 
 
 
-print(duplicates([1, 2, 4, 4, 3, 3,4, 1, 5, 3, '5']))
