@@ -1,3 +1,4 @@
+https://www.codewars.com/kata/5815fd7441e062463d0000f8
 def bang_minus_n(n,history):
     length = len(history.split('\n'))
     history1 = history.split('\n')
