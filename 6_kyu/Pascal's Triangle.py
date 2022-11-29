@@ -1,3 +1,4 @@
+https://www.codewars.com/kata/5226eb40316b56c8d500030f
 def pascals_triangle(n):
     if n < 1:
         return None
