@@ -1,3 +1,4 @@
+https://www.codewars.com/kata/53ffbba24e9e1408ee0008fd
 def knapsack(capacity, items):
     # Be greedy!
     r = [0 for i in range(len(items))]
