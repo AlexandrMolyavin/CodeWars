@@ -1,3 +1,4 @@
+https://www.codewars.com/kata/57fa9bc99610ce206f000330
 def shoot(results):
     p1_score = 0
     p2_score = 0
