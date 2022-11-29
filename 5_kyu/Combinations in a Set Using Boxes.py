@@ -1,3 +1,4 @@
+https://www.codewars.com/kata/5b5f7f7607a266914200007c
 def combs_non_empty_boxes(n, k):
     # your code here
     if n < k: return "It cannot be possible!"
