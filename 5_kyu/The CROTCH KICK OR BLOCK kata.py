@@ -1,3 +1,4 @@
+https://www.codewars.com/kata/528aa29bd8a0399fc5000cae
 class dark_room:
     def __init__(self, kick_from):
         self.kick_from = kick_from
