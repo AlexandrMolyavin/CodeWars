@@ -1,3 +1,4 @@
+https://www.codewars.com/kata/54f0d905d49112f3a300055a
 def get_hints(a, guess):
     answer = list(x for x in a)
     wh = 0
