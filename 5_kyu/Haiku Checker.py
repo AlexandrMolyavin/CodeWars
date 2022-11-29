@@ -1,3 +1,4 @@
+https://www.codewars.com/kata/5c765a4f29e50e391e1414d4
 def is_haiku(text):
     vowel = ['a','e','i','o','u','y']
     syllabus = ['q', 'w', 'r', 't', 'p', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'z', 'x', 'c', 'v', 'b', 'n', 'm']
