@@ -1,3 +1,4 @@
+https://www.codewars.com/kata/5898a751b2edc082f60005f4
 def check_tombola(sheet):
     if [len(row) for row in sheet] != [9,9,9]:
         return False
