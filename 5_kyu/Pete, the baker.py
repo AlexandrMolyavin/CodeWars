@@ -1,3 +1,4 @@
+https://www.codewars.com/kata/525c65e51bf619685c000059
 def cakes(recipe, available):
     for item in recipe:
         if item not in available:
