@@ -1,3 +1,4 @@
+https://www.codewars.com/kata/6177b4119b69a40034305f14
 def solution(mtrx):
     for i in range(len(mtrx)):
         for j in range(len(mtrx)):
