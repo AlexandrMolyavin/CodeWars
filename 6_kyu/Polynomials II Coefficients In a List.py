@@ -1,3 +1,4 @@
+https://www.codewars.com/kata/5694b4f9a01ae685c400002f
 def calc_poly(pol_list, x): #If polynomial degree == 3
     poly_str_list = []
     pol_list.reverse()
